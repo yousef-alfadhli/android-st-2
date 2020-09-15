@@ -10,6 +10,8 @@
 <br>
 3- قم بإنشاء ملف نصي داخل المجلد 
 <br>
+4- [إضغط هنا](https://www.tutorialspoint.com/compile_java_online.php)
+<br>
 4- قم بتعريف متغير نوعه String و قيمته "Android"
 <br>
 5- قم بطباعة المتغير الذي قمت بتعريفه
