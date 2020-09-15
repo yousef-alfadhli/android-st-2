@@ -10,7 +10,7 @@
 <br>
 3- قم بإنشاء ملف نصي داخل المجلد 
 <br>
-4- [إضغط هنا](https://www.tutorialspoint.com/compile_java_online.php)
+4- [إضغط هنا](https://www.tutorialspoint.com/compile_java_online.php) للذهاب إلى الcomplier
 <br>
 5- قم بتعريف متغير نوعه String و قيمته "Android"
 <br>
